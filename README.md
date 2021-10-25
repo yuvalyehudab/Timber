@@ -5,6 +5,7 @@ A Timber!!! game as part of C++ learning
 
 To install Timber you may:
 1. Use the MSI (windows)
+  The file is named TimberInstallation.msi and it is currently on the main page.
 2. Install SFML, configure it in the project and compile with it (windows)
 notice that it is x64
 3. create a makefile and compile (linux)
